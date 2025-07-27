@@ -10,6 +10,21 @@ A full-stack web application built to connect college alumni and students. This 
 | Home Page |
 |-----------|
 | ![Home](./screenshots/home.jpeg) |
+| Events Page |
+|-----------|
+| ![Home](./screenshots/events.jpeg) |
+| Meetings Page |
+|-----------|
+| ![Home](./screenshots/meetings.jpeg) |
+| NewsLetters Page |
+|-----------|
+| ![Home](./screenshots/newsletters.jpeg) |
+| Mails Page |
+|-----------|
+| ![Home](./screenshots/mail.jpeg) |
+| inbox Page |
+|-----------|
+| ![Home](./screenshots/inbox.jpeg) |
 
 
 ---
