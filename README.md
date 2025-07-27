@@ -9,7 +9,7 @@ A full-stack web application built to connect college alumni and students. This 
 
 | Home Page |
 |-----------|
-| ![Home](./screenshots/home.png) |
+| ![Home](./screenshots/home.jpeg) |
 
 
 ---
